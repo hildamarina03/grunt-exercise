@@ -1,0 +1,14 @@
+body {
+  background: #eeffcd; }
+
+h1.title {
+  font: normal 2em "Open Sans", sans-serif;
+  color: #F44336; }
+
+div.container {
+  color: #F44336;
+  background: #fff;
+  width: 100%;
+  box-shadow: 0 2px 1px 0 rgba(0, 0, 0, 0.2); }
+
+/*# sourceMappingURL=mystyle.css.map */
